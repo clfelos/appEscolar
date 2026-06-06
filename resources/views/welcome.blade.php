@@ -146,8 +146,5 @@
             </div>
         </div>
     </footer>
-
-    <!-- Bootstrap Icons (Optional but recommended for the design above) -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </body>
 </html>
